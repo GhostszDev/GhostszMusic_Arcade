@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/test.unity
+    guid: a3ebe7e2501c6ac4c99795dbbe8ff0fd
+  - enabled: 1
+    path: Assets/scenes/WorldDefer.unity
+    guid: d0107e1d5cdc8094f90540f63ebbfcba
